@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author segredo
+ *
+ */
+module chessGame {
+}
